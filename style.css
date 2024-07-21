@@ -1,3 +1,9 @@
 body {
     background-color: rgb(160,190,200);
 }
+
+.qris {
+    width: 100px;
+    height: 100px;
+    background-color: rgb(120,180,100);
+}
