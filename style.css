@@ -13,3 +13,9 @@ body {
     height: 250px;
     background-color: orange;
 }
+
+.transfer {
+    width: 100px;
+    height: 300px;
+    background-color: green;
+}
