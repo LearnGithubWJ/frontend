@@ -7,3 +7,9 @@ body {
     height: 100px;
     background-color: rgb(120,180,100);
 }
+
+.gambarFooter {
+    width: auto;
+    height: 250px;
+    background-color: orange;
+}
